@@ -1,0 +1,2 @@
+com.example.practice15.entity.Manufacture@76cb1bdc
+com.example.practice15.entity.Manufacture@214d5bbb

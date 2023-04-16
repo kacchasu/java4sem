@@ -1,0 +1,33 @@
+### Получить все объекты Phone
+GET http://localhost:8080/phones
+
+### Получить объект Phone по ID
+GET http://localhost:8080/phones/1
+
+### Создать новый объект Phone
+POST http://localhost:8080/phones
+Content-Type: application/json
+
+{
+  "name": "New Phone Model5",
+  "creationYear": 2023,
+  "manufacture": "http://localhost:8080/manufactures/1"
+}
+
+
+### Создать новый объект Manufacture
+POST http://localhost:8080/manufactures
+Content-Type: application/json
+
+{
+  "id": "2",
+  "name": "Apple",
+  "address": "street"
+}
+
+
+### Удалить объект Phone по ID
+DELETE http://localhost:8080/phones/1
+
+### Фильтрация по имени
+GET http://localhost:8080/manufactures/search/findManufactureByName?name=Apple

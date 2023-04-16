@@ -1,0 +1,14 @@
+com.example.practice15.entity.Phone@5429a543
+com.example.practice15.entity.Phone@39777c70
+com.example.practice15.entity.Phone@4cefbde4
+com.example.practice15.entity.Phone@4dfd1cc9
+com.example.practice15.entity.Phone@5467bb88
+com.example.practice15.entity.Phone@5671d988
+com.example.practice15.entity.Phone@67c05e3f
+com.example.practice15.entity.Phone@42fe1d5a
+com.example.practice15.entity.Phone@2b2c5576
+com.example.practice15.entity.Phone@73c97402
+com.example.practice15.entity.Phone@169dede2
+com.example.practice15.entity.Phone@243b36a6
+com.example.practice15.entity.Phone@6df540b2
+com.example.practice15.entity.Phone@55a4506a

@@ -1,0 +1,8 @@
+com\example\practice23\Role.class
+com\example\practice23\UserController.class
+com\example\practice23\UserService.class
+com\example\practice23\UserRepository.class
+com\example\practice23\User.class
+com\example\practice23\Application.class
+com\example\practice23\UserDetailsServiceImpl.class
+com\example\practice23\SecurityConfig.class
